@@ -1,0 +1,15 @@
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.csproj.AssemblyReference.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.AssemblyInfoInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.AssemblyInfo.cs
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.csproj.CoreCompileInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\bin\Debug\net7.0\Task_68_Ackerman_Function_Recursion.exe
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\bin\Debug\net7.0\Task_68_Ackerman_Function_Recursion.deps.json
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\bin\Debug\net7.0\Task_68_Ackerman_Function_Recursion.runtimeconfig.json
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\bin\Debug\net7.0\Task_68_Ackerman_Function_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\bin\Debug\net7.0\Task_68_Ackerman_Function_Recursion.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\refint\Task_68_Ackerman_Function_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\Task_68_Ackerman_Function_Recursion.genruntimeconfig.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_68_Ackerman_Function_Recursion\obj\Debug\net7.0\ref\Task_68_Ackerman_Function_Recursion.dll

@@ -1,0 +1,15 @@
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\bin\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.exe
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\bin\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.deps.json
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\bin\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.runtimeconfig.json
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\bin\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\bin\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.csproj.AssemblyReference.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.AssemblyInfoInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.AssemblyInfo.cs
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.csproj.CoreCompileInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\refint\Task_66_Sum_Natural_Numbers_Recursion.dll
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\Task_66_Sum_Natural_Numbers_Recursion.genruntimeconfig.cache
+D:\Training\Знакомство с языком программирования C#\Seminar9_ДЗ\S_9\Task_66_Sum_Natural_Numbers_Recursion\obj\Debug\net7.0\ref\Task_66_Sum_Natural_Numbers_Recursion.dll
