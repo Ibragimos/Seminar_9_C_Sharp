@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\S_9.csproj": {}
+    "D:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\Task_64_All_Natural_Numbers_Recursion\\Task_64_All_Natural_Numbers_Recursion.csproj": {}
   },
   "projects": {
-    "d:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\S_9.csproj": {
+    "D:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\Task_64_All_Natural_Numbers_Recursion\\Task_64_All_Natural_Numbers_Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\S_9.csproj",
-        "projectName": "S_9",
-        "projectPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\S_9.csproj",
+        "projectUniqueName": "D:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\Task_64_All_Natural_Numbers_Recursion\\Task_64_All_Natural_Numbers_Recursion.csproj",
+        "projectName": "Task_64_All_Natural_Numbers_Recursion",
+        "projectPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\Task_64_All_Natural_Numbers_Recursion\\Task_64_All_Natural_Numbers_Recursion.csproj",
         "packagesPath": "C:\\Users\\korho\\.nuget\\packages\\",
-        "outputPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\obj\\",
+        "outputPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar9_ДЗ\\S_9\\Task_64_All_Natural_Numbers_Recursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK\\NuGetPackages"
