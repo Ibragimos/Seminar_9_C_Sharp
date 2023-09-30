@@ -27,7 +27,7 @@ int AckermanFunction(int M, int N)
     {
         return AckermanFunction(M - 1, AckermanFunction(M, N - 1));
     }
-    else return -1;
+    else throw new Exception("Отрицательное число - не подходит");
 }
 
 int ackermanFunction = AckermanFunction(M(), N());
